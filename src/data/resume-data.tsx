@@ -64,8 +64,7 @@ export const RESUME_DATA = {
       start: "Jan 2023",
       end: "Apr 2023",
       description:
-        "Continued work on prostate cancer detection for a research project course by investigating the shortfalls of previously trained models
-",
+        "Continued work on prostate cancer detection for a research project course by investigating the shortfalls of previously trained models",
     },
     {
       company: "UBC ECE",
