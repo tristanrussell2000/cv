@@ -78,8 +78,8 @@ export const RESUME_DATA = {
         "Responsible for a research project to build a cancer detection machine learning system",
     },
     {
-      company: "Absolute Software,
-      link: "https://bsgroup.eu/",
+      company: "Absolute Software",
+      link: "https://absolute.com/",
       badges: ["Coop Internship"],
       title: "Associate QA Test Developer",
       logo: JojoMobileLogo,
