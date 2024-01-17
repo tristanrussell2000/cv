@@ -28,7 +28,7 @@ export const RESUME_DATA = {
     "Full Stack Engineer focused on building products with extra attention to detail",
   summary:
     "Hi, my name is Tristan Russell. I'm a driven and analytical UBC Cognitive Systems graduate with experience in software QA automation and machine learning. Committed to continuously learning new skills and delivering high quality solutions. Former Varsity Outdoor Club webmaster responsible for the club's website and email services.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
+  avatarUrl: "https://avatars.githubusercontent.com/u/5078332?v=4",
   personalWebsiteUrl: "https://tristanrussell2000.github.io",
   contact: {
     email: "tristanrussell2000@gmail.com",
