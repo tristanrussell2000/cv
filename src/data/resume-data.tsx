@@ -25,7 +25,7 @@ export const RESUME_DATA = {
   location: "Vancouver, Canada",
   locationLink: "https://www.google.com/maps/place/Vancouver",
   about:
-    "Full Stack Engineer focused on building products with extra attention to detail",
+    "UBC Cognitive Systems graduate with experience in QA automation and machine learning",
   summary:
     "Hi, my name is Tristan Russell. I'm a driven and analytical UBC Cognitive Systems graduate with experience in software QA automation and machine learning. Committed to continuously learning new skills and delivering high quality solutions. Former Varsity Outdoor Club webmaster responsible for the club's website and email services.",
   avatarUrl: "https://avatars.githubusercontent.com/u/5078332?v=4",
